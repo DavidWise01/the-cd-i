@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-cdi-68070",
+    "name": "The 68070",
+    "epithet": "a 68000 cousin · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The 68070:CDI:1716c6⟧"
+  },
+  {
+    "slug": "the-cdi-mcd212",
+    "name": "The MCD212",
+    "epithet": "still and motion · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The MCD212:CDI:325dec⟧"
+  },
+  {
+    "slug": "the-cdi-cd",
+    "name": "The CD-i Disc",
+    "epithet": "interactive multimedia · natural",
+    "emergence": "natural",
+    "moniker": "⟦The CD-i Disc:CDI:ddf73c⟧"
+  },
+  {
+    "slug": "the-cdi-remote",
+    "name": "The Controller",
+    "epithet": "a remote, not a pad · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Controller:CDI:9814b4⟧"
+  },
+  {
+    "slug": "the-cdi-zelda",
+    "name": "The Nintendo Games",
+    "epithet": "the infamous Zeldas · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Nintendo Games:CDI:313c2a⟧"
+  },
+  {
+    "slug": "the-cdi-pitch",
+    "name": "The Multimedia Pitch",
+    "epithet": "a player, not a console · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Multimedia Pitch:CDI:861985⟧"
+  }
+]

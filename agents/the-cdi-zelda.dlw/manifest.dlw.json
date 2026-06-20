@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Nintendo Games",
+  "universe": "CDI · The Nintendo Games (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Nintendo Games:CDI:313c2a⟧",
+  "carbon": "the-cdi-zelda.carbon.tiff (TIFF)",
+  "silicon": "the-cdi-zelda.silicon.png (PNG)",
+  "seal_sha256": "d6b149c96cbb2a7dff8933208cc3d18124a2a59c9b12a8cdbdfbfe336a7ba7d0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The MCD212",
+  "universe": "CDI · The MCD212 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The MCD212:CDI:325dec⟧",
+  "carbon": "the-cdi-mcd212.carbon.tiff (TIFF)",
+  "silicon": "the-cdi-mcd212.silicon.png (PNG)",
+  "seal_sha256": "322fbf18ab5f3082cb7a27795b168d51ec5620a43f2f683e9b9fa19c81d85903",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

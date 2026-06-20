@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The MCD212
+node CDI · CDI · ⟦The MCD212:CDI:325dec⟧
+
+WHO   — The MCD212 — still and motion · electrical
+WHAT  — still and motion · electrical
+WHERE — CDI · PHILIPS CD-i (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The video controller handling still images and motion video from disc — the engine of the CD-i's multimedia presentations.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  still and motion · electrical
+
+spoken token : thael-vun-gri   ·   hex : 325dec
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

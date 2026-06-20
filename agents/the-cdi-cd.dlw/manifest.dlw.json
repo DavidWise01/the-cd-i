@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The CD-i Disc",
+  "universe": "CDI · The CD-i Disc (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The CD-i Disc:CDI:ddf73c⟧",
+  "carbon": "the-cdi-cd.carbon.tiff (TIFF)",
+  "silicon": "the-cdi-cd.silicon.png (PNG)",
+  "seal_sha256": "cc3470c18a0d390652b0643c4fc8ebf3215e84b100721dfb0b09ca3c49df3803",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

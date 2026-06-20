@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "PHILIPS CD-i",
+  "universe": "CDI · PHILIPS CD-i (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦PHILIPS CD-i:CDI:4f8848⟧",
+  "carbon": "the-cd-i.carbon.tiff (TIFF)",
+  "silicon": "the-cd-i.silicon.png (PNG)",
+  "seal_sha256": "f227ed3396cf816a8e14aa7e7b1efc8fed27fc0385b0c39d3bfabfd3fd994920",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
